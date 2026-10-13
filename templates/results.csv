@@ -1,0 +1,1 @@
+device,os,api,variant,width,height,sigma,radius,threadgroup,warmup_runs,measured_runs,median_ms,min_ms,max_ms,stddev_ms,timing_method,max_abs_diff,mismatched_pixels,notes
